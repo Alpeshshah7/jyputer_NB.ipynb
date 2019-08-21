@@ -1,1 +1,1 @@
-# jyputer_NB.ipynb
+# jyputer_NB
